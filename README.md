@@ -7,6 +7,24 @@ It depends only on standard Python libraries and therefore works with Python 2, 
 <img align="center" src="https://github.com/Sahil-B07/Typing-Test/blob/main/assets/gifs/Typing%20Test.gif" width="100%">
 
 
+## Languages and Tools
+- [x] ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+- [x] <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vs_code" width="230" hight="50">
+
+## Installation and Libraries used
+
+In this project we have used ```Curses``` module.
+
+- In Mac OS and Linux ```Curses``` is pre-install.
+- We need to install ```Curses``` in Windows with this command : 
+
+      python -m pip install windows-curses
+     or
+      
+      pip install windows-curses
+      
+</br>
+
 ### Libraries and Modules used:
 - random
 - pandas 
@@ -55,6 +73,14 @@ pip install -r requirement.txt
 ### Demo
 ![Intro_image](https://github.com/Keval-pandya/Typing_speed/blob/main/images/final_game_1.png)
 ![Game_image](https://github.com/Keval-pandya/Typing_speed/blob/main/images/main_game_2.png)
+
+## Keyboard and Fingers Position
+<img align="center" src="https://github.com/Sahil-B07/Typing-Test/blob/main/assets/img/fingure_positions1.png" width="600">
+
+</br>
+
+![GitHub watchers](https://img.shields.io/github/watchers/Sahil-B07/Typing-Test?style=social&label=Watch&maxAge=2592000)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Sahil-B07/Typing-Test?style=social&color=brightgreen)
 
 
 

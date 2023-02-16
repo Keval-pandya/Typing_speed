@@ -51,8 +51,8 @@ depend on, and they will be installed using:
 pip install -r requirements.txt
 ```
 ### Demo
-![alt text](https://github.com/Keval-pandya/Typing_speed/blob/main/images/final_game_1.png)
-
+![Intro_image](https://github.com/Keval-pandya/Typing_speed/blob/main/images/final_game_1.png)
+![Game_image](https://github.com/Keval-pandya/Typing_speed/blob/main/images/main_game_2.png)
 
 
 

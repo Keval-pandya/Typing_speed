@@ -51,6 +51,7 @@ depend on, and they will be installed using:
 pip install -r requirements.txt
 ```
 ### Demo
+![alt text](https://github.com/Keval-pandya/Typing_speed/blob/main/images/final_game_1.png)
 
 
 

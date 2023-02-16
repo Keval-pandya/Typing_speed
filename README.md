@@ -26,6 +26,10 @@ It depends only on standard Python libraries and therefore works with Python 2, 
 - You can customized word list in all level of difficulties.
 
 ### How to play:
+1. Clone this Repositories then change the directory using following commands
+``` git clone https://github.com/Keval-pandya/Typing_speed.git
+    cd Typing_speed
+```
 1. Just Run main.py file. using following command 
 On Windows
 ``` 

@@ -4,6 +4,8 @@
 a curses-based UNIX terminal program for measuring and improving your typing speed (measured in words per minute, or WPM) .
 
 It depends only on standard Python libraries and therefore works with Python 2, 3 and PyPy.
+<img align="center" src="https://github.com/Sahil-B07/Typing-Test/blob/main/assets/gifs/Typing%20Test.gif" width="100%">
+
 
 ### Libraries and Modules used:
 - random

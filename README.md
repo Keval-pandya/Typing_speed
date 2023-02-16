@@ -44,11 +44,11 @@ $ Python3 main.py
 4. You can see the leaderboard and record of your own.
 
 ### Notes
-The `requirements.txt` file should list all Python libraries that your notebooks
+The `requirement.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
 
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ### Demo
 ![Intro_image](https://github.com/Keval-pandya/Typing_speed/blob/main/images/final_game_1.png)

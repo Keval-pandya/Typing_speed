@@ -52,11 +52,11 @@ In this project we have used ```Curses``` module.
 1. Just Run main.py file. using following command 
 On Windows
 ``` 
-python main.py 
+python main_game.py 
 ```
 On Linux:
 ``` 
-$ Python3 main.py
+$ Python3 main_game.py
 ```
 
 2. Then Enter Username, Email and Phone_no.
@@ -68,7 +68,7 @@ The `requirement.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ### Demo
 ![Intro_image](https://github.com/Keval-pandya/Typing_speed/blob/main/images/final_game_1.png)
